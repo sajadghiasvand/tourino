@@ -1,0 +1,12 @@
+{
+  "mixers": [
+    {
+      "input": [
+        "./app/models/base.prisma",
+        "./app/models/auth.prisma",
+        "./app/models/posts.prisma",
+      ],
+      "output": "prisma/schema.prisma"
+    }
+  ]
+}

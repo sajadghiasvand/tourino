@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a8a93559-131b-4a21-b89f-908b7b7495c8" name="sajadm">
+        <fileTransfer rootFolder="/var/www/tourino" accessType="SFTP" host="78.157.41.157" port="22" sshConfigId="f643b9f9-a5bc-499a-a882-e5b32e9f1475" sshConfig="root@78.157.41.157:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
